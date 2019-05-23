@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayForms", "ArrayForms\ArrayForms.csproj", "{3E7BF348-EAF1-48C6-957E-9CD1B5FE2B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7BF348-EAF1-48C6-957E-9CD1B5FE2B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7BF348-EAF1-48C6-957E-9CD1B5FE2B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7BF348-EAF1-48C6-957E-9CD1B5FE2B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7BF348-EAF1-48C6-957E-9CD1B5FE2B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7EF6E0-65E4-4FC8-95A6-2EE342B50D39}
+	EndGlobalSection
+EndGlobal
